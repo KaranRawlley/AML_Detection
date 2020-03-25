@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+major_project_data.csv
 # Distribution / packaging
 .Python
 build/
